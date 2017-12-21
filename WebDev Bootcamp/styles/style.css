@@ -1,0 +1,39 @@
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Titillium Web', sans-serif;
+  background: white;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: black
+}
+h2{
+    font-size: 40px;
+  text-align: center;
+  color: green
+}
+li {
+  font-size: 20px;    
+  line-height: 1;
+  letter-spacing: 1px;
+}
+
+/* body {
+  width: 600px;
+  margin: auto auto;
+  background-color: #FF9500;
+  padding: 0 60px 60px 60px;
+  border: 5px solid black;
+} */
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color:forestgreen;
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
